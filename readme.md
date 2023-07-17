@@ -19,11 +19,13 @@ The UrduPlagCheckAI Model makes a significant contribution to the Urdu Adab lang
 
 **Model Accuracy**
 
-![Accuracy](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/assets/78583049/a49c780f-cd5b-4d25-b3c8-1b08287e0403)
+![Accuracy](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/assets/78583049/8f0aedc2-fcfc-41b2-901a-b9136036cc58)
+
 
 **Lose**
 
-![Lose](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/assets/78583049/7f8d74ed-2bf9-4736-ad68-0ae639b33c9d)
+![Lose](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/assets/78583049/e47937ff-3205-406e-b015-ccf57c586d19)
+
 
 ## Tools
 
@@ -46,9 +48,7 @@ Make sure to provide appropriate links or references to give credit to the respe
 
 ## Internal Architecture
 
-![Alt text](image-2.png)
-
-
+![image](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/assets/78583049/03787815-e42a-4c0e-b6f8-c2e49badda54)
 
 
 [Want Help?](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/issues)
