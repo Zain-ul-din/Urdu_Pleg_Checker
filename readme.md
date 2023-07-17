@@ -12,8 +12,10 @@ The UrduPlagCheckAI Model makes a significant contribution to the Urdu Adab lang
 
 ## Examples
 
-![Alt text](image.png)
-![Alt text](image-1.png)
+
+![image](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/assets/78583049/a6d28901-44c7-4dc1-81a3-507a9d4c6a44)
+![image](https://github.com/Zain-ul-din/Urdu_Pleg_Checker/assets/78583049/2098c8ad-808a-40b0-8a83-748d8e9a14b0)
+
 
 ## Model Training Results
 
